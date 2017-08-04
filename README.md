@@ -1,2 +1,3 @@
 # hello-world
-My first GIT project repository
+
+My first GIT project repository won't be my last. This is the beginning of a wunderful and at the same time scary new path in my professinal live...
